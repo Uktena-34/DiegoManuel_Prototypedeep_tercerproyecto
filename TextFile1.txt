@@ -1,0 +1,5 @@
+﻿Este patron tiene la misma funcion que el anterior pero su diferencias radica en que se maneja de una manera mas profunda 
+
+
+Ya que se puede especificar todos sus atributos.
+
